@@ -1,21 +1,18 @@
-Daniel (Dani)
+I am Daniel (Dani). Welcome to my GitHub.
 
-Welcome to my GitHub.
-I am Daniel. I like building projects that help me understand the world a little better — whether through data analysis, research-oriented projects, or practical web development. 
+I like building projects that help me understand the world a little better — whether through data analysis, research-oriented projects, or practical web development. 
 
 ---
 
-**🪐 About Me **
+## 🪐 About me
 
 🎓 Background: Social sciences, data analysis, and web development.
 
 🏡 Hometown(s): Madrid, ES 🇪🇸 - Penns. USA 🇺🇸
 
+🛠️ Current Focus: Strengthening my analytical toolkit and refining practical coding projects.
 
-
-🌱 Current Focus: Strengthening my analytical toolkit and refining practical coding projects.
-
-🧠 Interests:
+👀 Interests:
 
  - Qualitative & quantitative research
 
