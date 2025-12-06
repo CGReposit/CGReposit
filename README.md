@@ -10,7 +10,7 @@ I like building projects that help me understand the world a little better — w
 
 🏡 Hometown(s): Madrid, ES 🇪🇸 - Penns. USA 🇺🇸
 
-🛠️ Current Focus: Strengthening my analytical toolkit and refining practical coding projects.
+
 
 👀 Interests:
 
