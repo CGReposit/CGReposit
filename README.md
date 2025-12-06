@@ -1,5 +1,3 @@
-# README
-
 Daniel (Dani)
 
 Welcome to my GitHub.
