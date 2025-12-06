@@ -3,7 +3,9 @@ Daniel (Dani)
 Welcome to my GitHub.
 I am Daniel. I like building projects that help me understand the world a little better — whether through data analysis, research-oriented projects, or practical web development. 
 
-🪐 About Me
+---
+
+**🪐 About Me **
 
 🎓 Background: Social sciences, data analysis, and web development.
 
