@@ -8,14 +8,6 @@ I like building projects that help me understand the world a little better — w
 
 🎓 Background: Social sciences, data analysis, and web development.
 
-🏡 Hometown(s): Madrid, ES 🇪🇸 - Penns. USA 🇺🇸
-
-<p align="left">
-  <img src="Madrid.jpg" alt="Madrid, Spain" width="200" />
-  <img src="pennsylvania.jpg" alt="Pennsylvania, USA" width="200" />
-</p>
-
-
 
 
 🛠️ Interests:
@@ -27,5 +19,15 @@ I like building projects that help me understand the world a little better — w
  - Web development for personal and family projects
 
  - Language learning and cultural exploration
+
+
+
+🏡 Hometown(s): Madrid, ES 🇪🇸 - Penns. USA 🇺🇸
+
+<p align="left">
+  <img src="Madrid.jpg" alt="Madrid, Spain" width="200" />
+  <img src="pennsylvania.jpg" alt="Pennsylvania, USA" width="200" />
+</p>
+
 
 
