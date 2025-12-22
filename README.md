@@ -10,9 +10,9 @@ I like building projects that help me understand the world a little better — w
 
 🏡 Hometown(s): Madrid, ES 🇪🇸 - Penns. USA 🇺🇸
 
-<p align="left">
-  <img src="Madrid.jpg" alt="Madrid, Spain" width="140" />
-  <img src="pennsylvania.jpg" alt="Pennsylvania, USA" width="140" />
+<p align="right">
+  <img src="adrid.jpg" alt="Madrid, Spain" width="180" />
+  <img src="pennsylvania.jpg" alt="Pennsylvania, USA" width="200" />
 </p>
 
 
