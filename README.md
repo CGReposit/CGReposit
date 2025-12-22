@@ -10,15 +10,15 @@ I like building projects that help me understand the world a little better — w
 
 🏡 Hometown(s): Madrid, ES 🇪🇸 - Penns. USA 🇺🇸
 
-<p align="right">
-  <img src="Madrid.jpg" alt="Madrid, Spain" width="180" />
+<p align="left">
+  <img src="Madrid.jpg" alt="Madrid, Spain" width="200" />
   <img src="pennsylvania.jpg" alt="Pennsylvania, USA" width="200" />
 </p>
 
 
 
 
-👀 Interests:
+🛠️ Interests:
 
  - Qualitative & quantitative research
 
