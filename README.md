@@ -10,6 +10,9 @@ I like building projects that help me understand the world a little better — w
 
 🏡 Hometown(s): Madrid, ES 🇪🇸 - Penns. USA 🇺🇸
 
+| Madrid, ES 🇪🇸 | Pennsylvania, USA 🇺🇸 |
+|---------------|-----------------------|
+| ![](Madrid.jpg) | ![](Pennsylvania.jpg) |
 
 
 👀 Interests:
