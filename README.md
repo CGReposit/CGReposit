@@ -12,13 +12,13 @@ I like building projects that help me understand the world a little better — w
 
 **Interests**:
 
- - Qualitative & quantitative research 🔬
+ -🔬 Qualitative & quantitative research 
 
- - Data analysis and visualization 📊
+ -📊 Data analysis and visualization 
 
- - Web development for personal and family projects 🌐
+ -🌐 Web development for personal and family projects 
 
- - Language learning and cultural exploration 🗣️
+ -🗣️ Language learning and cultural exploration 
 
 
 
