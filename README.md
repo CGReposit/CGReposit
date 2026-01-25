@@ -1,6 +1,6 @@
 I'm **Daniel** (Dani). Welcome to my GitHub.
 
-I like building projects that help me understand the world a little better — whether through data analysis, research-oriented projects, or practical web development. 
+I like building projects that help me understand the world a bit better — whether through data analysis, research-oriented projects, or practical web development. 
 
 ---
 
