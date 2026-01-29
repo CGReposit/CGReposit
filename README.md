@@ -22,7 +22,7 @@ I like building projects that help me understand the world a bit better — most
 
 
 
-🏡 **Hometown(s)**: Madrid, ES 🇪🇸 - Penns. USA 🇺🇸
+🏡 **Hometown(s)**: Madrid, ES 🇪🇸 - Pennsylvania, USA 🇺🇸
 
 <p align="left">
   <img src="Madrid.jpg" alt="Madrid, Spain" width="200" />
