@@ -32,7 +32,7 @@ I like building projects that help me understand the world a bit better — most
 📍 **Currently, I live in:** Amsterdam, NL 🇳🇱
 
 <p align="left">
-  <img src="Amsterdam.jpg" alt="NL" width="200" />
+  <img src="Amsterdam.jpg" alt="NL" width="400" />
 </p>
 
 
