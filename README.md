@@ -29,9 +29,10 @@ I like building projects that help me understand the world a bit better — most
   <img src="pennsylvania.jpg" alt="Pennsylvania, USA" width="200" />
 </p>
 
-📍 **Currently, I live in:**: Amsterdam, NL 🇳🇱
+📍 **Currently, I live in:** Amsterdam, NL 🇳🇱
+
 <p align="left">
-  <img src=" Amsterdam.jpg" alt="NL" width="200" />
+  <img src="Amsterdam.jpg" alt="NL" width="200" />
 </p>
 
 
