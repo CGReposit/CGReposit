@@ -25,8 +25,8 @@ I like building projects that help me understand the world a bit better — most
 🏡 **Hometown(s)**: Madrid, ES 🇪🇸 - Pennsylvania, USA 🇺🇸
 
 <p align="left">
-  <img src="Madrid.jpg" alt="Madrid, Spain" width="200" />
-  <img src="pennsylvania.jpg" alt="Pennsylvania, USA" width="200" />
+  <img src="Madrid.jpg" alt="Madrid, Spain" width="200" height="133" style="object-fit:cover;" />
+  <img src="pennsylvania.jpg" alt="Pennsylvania, USA" width="200" height="133" style="object-fit:cover;" />
 </p>
 
 📍**Currently I live in:** The Netherlands 🇳🇱🌻🚤
