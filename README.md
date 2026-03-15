@@ -1,12 +1,12 @@
 I'm **Daniel** (Dani). Welcome to my GitHub.
 
-I like building projects that help me understand the world a bit better — mostly through data analysis, research-oriented projects, or practical web development. 
+I like building projects that help me understand the world a bit better, and this is the repository where they are stored — most are about data analysis, personal research-oriented projects, or practical web development. 
 
 ---
 
 ## 🪐 About me
 
-🎓 **Background**: Social sciences, data analysis, and web development.
+🎓 **Background**: Social sciences, data analysis, and research.
 
 
 
