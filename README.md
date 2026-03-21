@@ -32,7 +32,7 @@ I like building projects that help me understand the world a bit better, and thi
 📍**Currently I live in:** The Netherlands 🇳🇱🌻🚤
 
 <p align="left">
-  <img src="Amsterdam.jpg" alt="NL" width="400" />
+  <img src="Amsterdam.jpg" alt="NL" width="200" height="133" style="object-fit:cover;" />
 </p>
 
 
