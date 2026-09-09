@@ -22,14 +22,14 @@ I like building projects that help me understand the world a bit better, and thi
 
 
 
-🏡 **Hometown(s)**: Madrid, ES 🇪🇸 - Pennsylvania, USA 🇺🇸
+🏡 **Hometown(s)**: Madrid, ES - Pennsylvania, USA
 
 <p align="left">
   <img src="Madrid.jpg" alt="Madrid, Spain" width="200" height="133" style="object-fit:cover;" />
   <img src="pennsylvania.jpg" alt="Pennsylvania, USA" width="200" height="133" style="object-fit:cover;" />
 </p>
 
-📍**Currently I live in:** The Netherlands 🇳🇱🌻🚤
+📍**Currently I live in:** The Netherlands
 
 <p align="left">
   <img src="Amsterdam.jpg" alt="NL" width="200" height="133" style="object-fit:cover;" />
